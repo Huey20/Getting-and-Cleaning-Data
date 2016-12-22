@@ -1,6 +1,7 @@
-# This information in this exercise is sourced from UCI Machine Learning Repository
+# Codebook (Assignment 4, Getting and Cleaning Data)
 
-## The dataset used is the "Human Activity Recognition Using Smartphones Dataset"
+This information in this exercise is sourced from UCI Machine Learning Repository
+The dataset used is the "Human Activity Recognition Using Smartphones Dataset"
 
 ### Data description
 
