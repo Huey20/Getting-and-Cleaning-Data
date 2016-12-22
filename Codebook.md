@@ -44,10 +44,10 @@ These signals were used to estimate variables of the feature vector for each pat
 The set of variables that were estimated from these signals are: 
 
 Variables | Description
-----------------------------
-mean() | Mean value
-std() | Standard deviation
-mad() | Median absolute deviation
+--------- |-----------------
+mean()    | Mean value
+std()     | Standard deviation
+mad()     | Median absolute deviation
 
 max(): Largest value in array
 min(): Smallest value in array
