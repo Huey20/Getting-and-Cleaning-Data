@@ -64,7 +64,6 @@ bandsEnergy()| Energy of a frequency interval within the 64 bins of the FFT of e
 angle()   | Angle between to vectors.
 
 ### Data transformations
-Data transformation
 The raw data sets are processed to create a tidy data set (see run_analysis.R)
 
 1. Merge training and test sets
